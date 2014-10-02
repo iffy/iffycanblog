@@ -38,7 +38,7 @@ and
 
 I might ask them to write down this assignment... or find some other means of distraction so that I could quickly dress up in this costume<span class="aside">I think my classroom might have a phone booth in it just for things like this.</span>:
 
-![Roman centurion](http://upload.wikimedia.org/wikipedia/commons/1/18/Centurion_2_Boulogne_Luc_Viatour.jpg)
+![Roman centurion](images/centurion.jpg)
 
 "Ahoy!" I'd yell.  (Or perhaps I'd research the Romans and how they greet and say that instead).  Anyway, I'd make a noise and draw a sword.  "What mean ye to be doin'?" my Roman pirate self would say.  <span class="aside">Roman pirates typically refer to chalkboards and whiteboards as "de plank."</span>"What manner of scurvy be writin' this dross on de plank?"  I might peek out from under my helmet and loudly whisper, "IT'S OKAY.  I'M PRETENDING TO BE A ROMAN CENTURION."
 
@@ -54,7 +54,7 @@ I might ask them to write down this assignment... or find some other means of di
 
 I'd need another distraction at this point.  Perhaps I could get the principal to come in so that I could stab him with my sword.  He would die a great, dramatic death over the course of a few minutes&mdash;the kids would love it.  In the meantime, I'd get dressed up as this:
 
-![Robot costume](https://c2.staticflickr.com/4/3179/3100021848_35f9a6698c_b.jpg)
+![Robot costume](images/robotcostume.jpg)
 
 "Beep, beeoop!" I'd say in a robot voice.  "I only know ones and zeroes.  Beeowwoop!  Ones and zeroes are all I know."  I'd maneuver to the board and say, "These are all wrong.  This is the correct way to write the numbers 0 through 10."  It would end up looking like this:
 
@@ -84,4 +84,4 @@ And finally, I'd give this last assignment:
 
 Then I'd give them time to work on the problems.  I would meander about the classroom and try to get the puzzle into their heads so they would work it out.
 
-Man, that would be fun.
+Man, that would be fun.  Oh, and when it comes time for equations... but that's for another post.
