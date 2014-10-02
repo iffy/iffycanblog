@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Matt Haggard'
-SITENAME = u'Iffy Can Blog'
+SITENAME = u'iffy can'
 SITEURL = ''
 
 PATH = 'content'
@@ -11,6 +11,8 @@ PATH = 'content'
 TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = u'en'
+
+DEFAULT_DATE_FORMAT = "%A, %B %d, %Y"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -35,4 +37,4 @@ RELATIVE_URLS = True
 THEME = 'theme'
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['assets']
+PLUGINS = ['assets', 'simple_footnotes']
