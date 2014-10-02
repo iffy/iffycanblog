@@ -2,11 +2,12 @@
 
 {% block body %}
   <header class="main">
-    <a href="{{ SITEURL }}/">
+    <a href="/">
       <div class="name">{{ SITENAME }}</div>
       <div class="subtitle">{{ SITESUBTITLE }}</div>
     </a>
   </header><!-- /#banner -->
+  <!--
   <nav class="main">
     <ul>
       {% for title, link in MENUITEMS %}
@@ -25,14 +26,17 @@
         {% endif %}
       {% endif %}
     </ul>
-  </nav><!-- /#menu -->
+  </nav>
+  -->
   
   {% block content %}
   {% endblock %}
   
+  <!--
   <footer class="main">
     <address>
       Stuff
-    </address><!-- /#about -->
-  </footer><!-- /#contentinfo -->
+    </address>
+  </footer>
+  -->
 {% endblock %}
